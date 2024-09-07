@@ -1,0 +1,8 @@
+.landing-page {
+  text-align: center;
+  padding: 20px;
+}
+
+.currency-selector, .gateway-selector {
+  margin-bottom: 20px;
+}
